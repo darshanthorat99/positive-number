@@ -23,6 +23,7 @@ namespace positive_number
             else
             {
                 Console.WriteLine("number is zero");
+                Console.WriteLine("abdcnc");
             }
         }
     }
